@@ -1,0 +1,1 @@
+def util(): return "Utility function"
